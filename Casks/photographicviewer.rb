@@ -1,8 +1,8 @@
 cask "photographicviewer" do
-    version "0.7.1"
-    sha256 "d0b51581658bfa35c744d94a1c67598c5e45214171ba7b7c37b9bac6bec53013"
+    version "1.0.0"
+    sha256 "14ea889ad13f7c061699bcb6cff0649c34b65136a31283a4e1da8790d0d91daf"
 
-    url "https://github.com/ponkotuy/PhotographicViewer/releases/download/v0.7.1/PhotographicViewer.mac.zip"
+    url "https://github.com/ponkotuy/PhotographicViewer/releases/download/v1.0.0/PhotographicViewer.mac.zip"
     name "PhotographicViewer"
     homepage "https://github.com/ponkotuy/PhotographicViewer"
 
